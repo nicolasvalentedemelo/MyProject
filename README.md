@@ -1,4 +1,0 @@
-# Mysite
-# MyProject
-# MyProject
-# Mysite
